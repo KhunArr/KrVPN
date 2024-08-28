@@ -1,0 +1,7 @@
+{
+  "allowedTokens": [
+    "Token123",
+    "Token456",
+    "Token789"
+  ]
+}

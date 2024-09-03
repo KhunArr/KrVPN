@@ -1,12 +1,12 @@
 {
     "allowedTokens": [
         {
-            "token_id": "111111",
-            "phone": "AAAA"
+            "phone": "AAAA",
+            "token_id": "111111"
         },
         {
-            "token_id": "22222",
-            "phone": "BBBB"
+            "phone": "BBAA",
+            "token_id": "22222"
         }
     ]
 }

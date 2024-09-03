@@ -15,6 +15,10 @@
         {
             "phone": "ခွန်အား",
             "token_id": "၁၁၁၁၁"
+        },
+        {
+            "token_id": "bbbb",
+            "phone": "Aaa"
         }
     ]
 }

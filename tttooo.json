@@ -3,10 +3,6 @@
         {
             "phone": "1111",
             "token_id": "aaaaa"
-        },
-        {
-            "phone": "22222555566",
-            "token_id": "bbbbbb"
         }
     ]
 }

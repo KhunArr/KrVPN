@@ -3,6 +3,10 @@
         {
             "token_id": "aaaaaa",
             "phone": "A"
+        },
+        {
+            "token_id": "aaaaa",
+            "phone": "Uuuu"
         }
     ]
 }

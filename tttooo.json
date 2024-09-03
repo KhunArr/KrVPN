@@ -1,16 +1,16 @@
 {
     "allowedTokens": [
         {
-            "token_id": "aaaaaa",
-            "phone": "A"
+            "phone": "A",
+            "token_id": "aaaaaa"
         },
         {
-            "token_id": "aaaaa",
-            "phone": "Uuuu"
+            "phone": "Uuuu",
+            "token_id": "aaaaa"
         },
         {
-            "token_id": "234567",
-            "phone": "Uuuu"
+            "phone": "UuuuKhun",
+            "token_id": "234567"
         }
     ]
 }

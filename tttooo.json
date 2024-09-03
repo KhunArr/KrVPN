@@ -1,3 +1,8 @@
 {
-    "allowedTokens": []
+    "allowedTokens": [
+        {
+            "token_id": "khunploh",
+            "phone": "ခွန်အား"
+        }
+    ]
 }

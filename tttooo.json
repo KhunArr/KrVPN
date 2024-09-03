@@ -1,3 +1,8 @@
 {
-    "allowedTokens": []
+    "allowedTokens": [
+        {
+            "token_id": "aaaaaa",
+            "phone": "A"
+        }
+    ]
 }

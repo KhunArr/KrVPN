@@ -1,16 +1,16 @@
 {
     "allowedTokens": [
         {
-            "tokenPhone": "ထွက်ဗဲ့ 03\/09\/2024",
-            "tokenName": "f7f09eb09ddd1597"
+            "phone": "ခါဘ",
+            "token_id": "၃@၉၈၆"
         },
         {
-            "tokenPhone": "သဲင်စိန်ႏ 01\/09\/2024",
-            "tokenName": "c7f5098f1b636c71"
+            "phone": "Unknown",
+            "token_id": "Unnamed"
         },
         {
-            "tokenPhone": "အလယ် 03\/09\/2024ggggghhh",
-            "tokenName": "8fd111b6"
+            "phone": "Unknown",
+            "token_id": "Unnamed"
         }
     ]
 }

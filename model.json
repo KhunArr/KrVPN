@@ -1,0 +1,16 @@
+{
+    "allowedModels": [
+        {
+            "phone": "ခွန်အား",
+            "model_id": "SM-A528B"
+        },
+        {
+            "phone": "ပေႏ",
+            "model_id": "CPH2325"
+        },
+        {
+            "phone": "Kai",
+            "model_id": "M2103K19G"
+        }
+    ]
+}

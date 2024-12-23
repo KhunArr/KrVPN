@@ -1,5 +1,7 @@
 {
-    "hackingApps": [
-        "bin.mt.plus"
-    ]
+  "packages": [
+    "bin.mt.plus",
+    "com.example.app2",
+    "com.example.app3"
+  ]
 }
